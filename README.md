@@ -39,5 +39,5 @@ Special thanks to **Elevvo** for organizing this internship and providing such a
 ---
 
 ## 🔗 Connect with Me
-📍 [LinkedIn]([https://www.linkedin.com/in/sagda-fathy-a47367265/])  
+📍 [LinkedIn](https://www.linkedin.com/in/sagda-fathy-a47367265/)  
 💻 [GitHub](https://github.com/SAGDAFATHY)
