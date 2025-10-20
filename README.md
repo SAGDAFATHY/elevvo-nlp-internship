@@ -23,4 +23,21 @@ Each task involved data preprocessing, feature extraction (TF-IDF / embeddings),
 
 ---
 
-## 📂 Folder Structure
+## 💡 Key Learning Outcomes
+- Text preprocessing (cleaning, tokenization, stopword removal)
+- Text vectorization using TF-IDF
+- Building and evaluating ML models (Logistic Regression, SVM)
+- Named Entity Recognition with spaCy
+- Topic Modeling with LDA
+- Data visualization and interpretation
+
+---
+
+## 🙏 Acknowledgment
+Special thanks to **Elevvo** for organizing this internship and providing such an inspiring, hands-on learning experience! 💙  
+
+---
+
+## 🔗 Connect with Me
+📍 [LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/sagda-fathy-a47367265/))  
+💻 [GitHub](https://github.com/SAGDAFATHY)
